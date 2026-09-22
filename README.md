@@ -3,7 +3,7 @@ Hi 👋, I'm Riya Kumari
 </h1>
 
 <h3 align="center">
-🚀 AWS | DevOps | Cloud Engineer | B.Tech CSE Student
+🚀 AWS | DevOps | Cloud Engineer | B.Tech CSE Student | IBM National Hacathon Winner 2026
 </h3>
 
 <p align="center">
